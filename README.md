@@ -16,3 +16,5 @@ Nier Automata inspired theme for [Limine Bootloader](https://github.com/limine-b
 ```bash
 sudo limine-update
 ```
+
+> Note: In case you have secure boot enabled, there are some additional steps to make the background work. You can read more [here](https://wiki.cachyos.org/configuration/secure_boot_setup/#signing-the-kernel-image-and-boot-manager) and [here](https://github.com/Limine-Bootloader/Limine/blob/v12.x/USAGE.md#secure-boot).
